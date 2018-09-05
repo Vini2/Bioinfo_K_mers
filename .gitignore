@@ -104,15 +104,5 @@ venv.bak/
 .mypy_cache/
 
 # Data files
-HomoSap_X_Chr.fasta
-HomoSap_Y_Chr.fasta
-HomoSap_X_Chr.h5
-HomoSap_Y_Chr.h5
-k_mers_X.txt
-k_mers_Y.txt
-k_X_mer_dist.txt
-k_Y_mer_dist.txt
-sorted_X.txt
-sorted_Y.txt
-unique_X.txt
-unique_Y.txt
+/Data
+/Results
